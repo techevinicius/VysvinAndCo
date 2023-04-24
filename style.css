@@ -1,0 +1,10 @@
+header {
+	background: #fac6c6;
+	padding: 20px 0;
+}
+
+.cabecalho-lista {
+	position: relative;
+	width: 940px;
+	margin: 0 auto;
+}
