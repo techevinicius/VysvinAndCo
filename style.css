@@ -1,10 +1,8 @@
-header {
-	background: #fac6c6;
-	padding: 20px 0;
+.cabecalho{
+    background-color: #FFDBDB;
+    padding: -30px 0;
 }
 
-.cabecalho-lista {
-	position: relative;
-	width: 940px;
-	margin: 0 auto;
+.imagem-cabecalho{
+    width: 20%
 }
