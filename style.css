@@ -6,3 +6,18 @@
 .imagem-cabecalho{
     width: 20%
 }
+.itemlista{
+    color:darkgray;
+    font-weight: bold;
+    font-size: 22px;
+    display: inline;
+    margin: 0 0 0 200px
+}
+
+.cabecalho-lista{
+    display: inline-block;
+    margin: 0 16px;
+    padding: 24px 0;
+    font-size: 24px;
+    color:darkgray;
+}
