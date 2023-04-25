@@ -5,7 +5,11 @@
 }
 
 .imagem-cabecalho{
-    width: 10%
+    width: 10%;
+	position: absolute;
+	top: 0%;
+	left: 0%
+
 }
 .itemlista{
     color:darkgray;
