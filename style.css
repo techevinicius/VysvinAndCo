@@ -21,6 +21,9 @@
 
 .caixapesquisa{
 	background-color: #737373;
+	position: absolute;
+	left: 170px;
+	top:0px;
 }
 
 
