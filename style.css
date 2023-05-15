@@ -37,7 +37,11 @@
 	align-items: center;
 }
 
-
+.search-txt {
+	border:none;
+	background:none;
+	outline: none;
+}
 .produtos {
 	width: 940px;
 	margin: 0 auto;
