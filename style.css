@@ -41,7 +41,12 @@
 	border:none;
 	background:none;
 	outline: none;
+	padding: 0;
+	color:black;
+	font-size: 16px;
+	line-height: 30px;
 }
+
 .produtos {
 	width: 940px;
 	margin: 0 auto;
