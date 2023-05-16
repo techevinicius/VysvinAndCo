@@ -105,7 +105,7 @@
 	margin: 0;
 	padding:0;
 	height: 100vh;
-	display:flex;
+	display: flex;
 	justify-content: center;
 	align-items: center;
 }
@@ -114,7 +114,8 @@
 	width: 800px;
 	right: 500px;
 	overflow: hidden;
-	position:absolute;
+	position: absolute;
+	border-radius: 10px;
 }
 
 .navegacao {
@@ -168,9 +169,16 @@ input {
 
 #radio1:checked ~ .first {
 	margin-left: 0;
-
 }
+
 #radio2:checked ~ .first {
 	margin-left: -25%;
-	
+}
+
+#radio3:checked ~ .first {
+	margin-left: -50%;
+}
+
+#radio4:checked ~ .first {
+	margin-left: -100%;
 }
