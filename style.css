@@ -100,3 +100,22 @@
     left: 100px;
     top: 10px;
 }
+
+.lixoveio {
+	margin: 0;
+	padding:0;
+	height: 10vh;
+	display:flex;
+	justify-content: right;
+}
+
+.slider {
+	width: 800px;
+	right: 500px;
+	overflow: hidden;
+}
+
+.slide{
+	display: flex;
+
+}
