@@ -114,6 +114,7 @@
 	width: 800px;
 	right: 500px;
 	overflow: hidden;
+	position:absolute;
 }
 
 .slide{
@@ -127,4 +128,15 @@
 
 	left: 50%;
 	transform: translate(-50%);
+}
+
+input {
+	display: none;
+}
+
+.manualbtn {
+	border: 2px solid #FFDBDB;
+
+	padding:10px;
+
 }
