@@ -117,15 +117,11 @@
 	position:absolute;
 }
 
-.slide{
-	display: flex;
-
-}
-
 .navegacao {
 	position:absolute;
 	bottom: 20px;
 
+	display: flex;
 	left: 50%;
 	transform: translate(-50%);
 }
@@ -138,5 +134,22 @@ input {
 	border: 2px solid #FFDBDB;
 
 	padding:10px;
+	border-radius: 20px;
+	cursor: pointer;
 
+}
+
+.manualbtn:not(:last-child) {
+	margin-right: 40px;
+}
+
+.manualbtn:hover {
+	background: #FFDBDB;
+	transition: 0.4s;
+}
+
+.slides {
+	display: flex;
+	width: 400%;
+	height: 100%;
 }
