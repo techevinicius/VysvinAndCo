@@ -180,5 +180,5 @@ input {
 }
 
 #radio4:checked ~ .first {
-	margin-left: -100%;
+	margin-left: -75%;
 }
