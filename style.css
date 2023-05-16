@@ -106,7 +106,8 @@
 	padding:0;
 	height: 10vh;
 	display:flex;
-	justify-content: right;
+	justify-content: center;
+	align-items: center;
 }
 
 .slider {
@@ -118,4 +119,12 @@
 .slide{
 	display: flex;
 
+}
+
+.navegacao {
+	position:absolute;
+	bottom: 20px;
+
+	left: 50%;
+	transform: translate(-50%);
 }
