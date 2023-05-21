@@ -184,5 +184,5 @@ input {
 }
 
 .visual {
-	align-content: center;
+	display: flex;
 }
