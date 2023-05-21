@@ -184,5 +184,5 @@ input {
 }
 
 .visual {
-	display:inline-block
+	align-content: center;
 }
