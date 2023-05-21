@@ -182,3 +182,7 @@ input {
 #radio4:checked ~ .first {
 	margin-left: -75%;
 }
+
+.visual {
+	display:inline-block
+}
