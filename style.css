@@ -186,3 +186,22 @@ input {
 .visual {
 	display: flex;
 }
+
+
+
+footer {
+	background-color: #343A40; 
+	color: white;
+	padding: 5rem 0;
+	}
+	.copyright {
+	font-size:.875em;
+	text-align: center;
+	}
+	.social-links li{
+	display: inline-block;
+	margin:.5rem.25rem.5rem.25rem;
+	}
+	.social-links img{
+	width:2.5rem; height:auto;
+	}
