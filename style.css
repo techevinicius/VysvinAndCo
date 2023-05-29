@@ -1,3 +1,4 @@
+//css do cabeçalho
 .cabecalho{
     background-color: #FFDBDB;
     padding: 0 0;
@@ -11,6 +12,9 @@
 	left: 0%
 
 }
+//
+
+//css dos produtos
 .itemlista{
     color:darkgray;
     font-weight: bold;
@@ -18,11 +22,6 @@
     display: inline;
     margin: 0 0 0 200px
 }
-
-.bodecolor{
-    background-color: #FFDBDB;
-}
-
 
 .produtos {
 	width: 940px;
@@ -68,24 +67,10 @@
 	font-weight: bold;
 	margin-top: 10px;
 }
+//
 
 
-.Saiba {
-	font-size: 20px;
-	padding: 50px;
-	position: relative;
-    left: 100px;
-    top: 10px;
-}
-
-.parteleft {
-	margin: 0;
-	padding:0;
-	height: 100vh;
-	display: flex;
-	justify-content: center;
-	align-items: center;
-}
+//css do slider
 
 .slider {
 	width: 800px;
@@ -160,9 +145,24 @@ input {
 	margin-left: -75%;
 }
 
-.visual {
-	display: flex;
+//fim do css do slider
+
+//css da parte do slider e texto
+
+.Saiba {
+	font-size: 20px;
+	padding: 50px;
+	position: relative;
+    left: 100px;
+    top: 10px;
 }
+
+.visual {
+	display: inline-block;
+}
+//
+
+//css do rodapé
 
 .footer {
 	background-color: #343A40; 
@@ -180,3 +180,11 @@ input {
 	.social-links img{
 	width:2.5rem; height:auto;
 	}
+	//
+
+	//css do body
+
+	.bodecolor{
+		background-color: #FFDBDB;
+	}
+	
