@@ -23,29 +23,6 @@
     background-color: #FFDBDB;
 }
 
-.caixapesquisa{
-	position: absolute;
-	left: 200px;
-	top:10px;
-	transform:translate(-20%, -10%);
-	background:#b38888;
-	height: 30px;
-	padding:10px;
-	border-radius:40px;
-	display: flex;
-	justify-content: space-between;
-	align-items: center;
-}
-
-.search-txt {
-	border:none;
-	background:none;
-	outline: none;
-	padding: 0;
-	color:black;
-	font-size: 16px;
-	line-height: 30px;
-}
 
 .produtos {
 	width: 940px;
