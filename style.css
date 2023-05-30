@@ -189,7 +189,7 @@ input {
 
 
 
-footer {
+.footer {
 	background-color: #343A40; 
 	color: white;
 	padding: 5rem 0;
@@ -205,3 +205,5 @@ footer {
 	.social-links img{
 	width:2.5rem; height:auto;
 	}
+
+	
