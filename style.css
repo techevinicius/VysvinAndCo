@@ -11,16 +11,9 @@
 	left: 0%
 
 }
-.itemlista{
-    color:darkgray;
-    font-weight: bold;
-    font-size: 22px;
-    display: inline;
-    margin: 0 0 0 200px
-}
 
 .bodecolor{
-    background-color: #FFDBDB;
+    background-color: #ffffff;
 	font-family: 'Poppins', sans-serif;
 }
 
@@ -116,6 +109,8 @@
 	overflow: hidden;
 	position: absolute;
 	border-radius: 10px;
+	margin-right: 200px ;
+	align-items: right;
 }
 
 .navegacao {
