@@ -12,34 +12,11 @@
 
 }
 
-.bodecolor{
+.body {
     background-color: #ffffff;
 	font-family: 'Poppins', sans-serif;
 }
 
-.caixapesquisa{
-	position: absolute;
-	left: 200px;
-	top:10px;
-	transform:translate(-20%, -10%);
-	background:#b38888;
-	height: 30px;
-	padding:10px;
-	border-radius:40px;
-	display: flex;
-	justify-content: space-between;
-	align-items: center;
-}
-
-.search-txt {
-	border:none;
-	background:none;
-	outline: none;
-	padding: 0;
-	color:black;
-	font-size: 16px;
-	line-height: 30px;
-}
 
 .produtos {
 	width: 940px;
@@ -127,23 +104,6 @@ input {
 	display: none;
 }
 
-.manualbtn {
-	border: 2px solid #FFDBDB;
-
-	padding:10px;
-	border-radius: 20px;
-	cursor: pointer;
-
-}
-
-.manualbtn:not(:last-child) {
-	margin-right: 40px;
-}
-
-.manualbtn:hover {
-	background: #FFDBDB;
-	transition: 0.4s;
-}
 
 .slides {
 	display: flex;
