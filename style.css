@@ -68,7 +68,7 @@
 	padding: 50px;
 	position: relative;
     top: 10px;
-	margin-right: 810px;
+	margin-left: 810px;
 	text-align: right;
 }
 
@@ -87,7 +87,7 @@
 	overflow: hidden;
 	position: absolute;
 	border-radius: 10px;
-	margin-right: 200px ;
+	margin-left: 200px ;
 	align-items: right;
 }
 
