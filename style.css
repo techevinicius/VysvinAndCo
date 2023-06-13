@@ -103,6 +103,23 @@ input {
 	display: none;
 }
 
+.manualbtn {
+	border: 2px solid #FFDBDB;
+
+	padding:10px;
+	border-radius: 20px;
+	cursor: pointer;
+
+}
+
+.manualbtn:not(:last-child) {
+	margin-right: 40px;
+}
+
+.manualbtn:hover {
+	background: #FFDBDB;
+	transition: 0.4s;
+}
 
 .slides {
 	display: flex;
