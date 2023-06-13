@@ -94,7 +94,6 @@
 .navegacao {
 	position:absolute;
 	bottom: 20px;
-
 	display: flex;
 	left: 50%;
 	transform: translate(-50%);
