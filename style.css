@@ -178,7 +178,7 @@ input {
 
 .flex-container{
 	display:flex;
-	flex-direction:column;
+	flex-direction:line;
 	padding: 5px;
 
 }
