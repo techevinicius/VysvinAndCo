@@ -166,7 +166,7 @@ input {
 
 
 
-.footer {
+.footer: :active {
 	background-color: #343A40; 
 	color: white;
 	padding: 5rem 0;
