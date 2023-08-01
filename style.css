@@ -15,12 +15,13 @@
 .sacola {
 	position:absolute;
 	left: 1200px;
-
+    font-size: 25px;
 }
 
 .conta{
 	position:absolute;
 	left:1300px;
+	font-size: 25px;
 }
 
 .body {
